@@ -1,0 +1,3 @@
+NOMBRE: Javier Rodrigo Pérez
+UBICACION: Guatemala
+LENGUAJE FAVORITO: JavaScript
